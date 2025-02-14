@@ -52,5 +52,5 @@ Mkfile.old
 dkms.conf
 
 # Project features
-.build
-.hooks
+.build/
+hooks/
